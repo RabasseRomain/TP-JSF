@@ -21,7 +21,7 @@ public class User implements Serializable {
 	// ----- Constructor ------------------------
 	
 	public User() {
-		System.out.println("New User Created");
+		System.out.println("New User Created.");
 	}
 
 	// ----- Getters and Setters ----------------
